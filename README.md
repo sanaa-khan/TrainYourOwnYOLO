@@ -8,7 +8,6 @@ This repo let's you train a custom image detector using the state-of-the-art [YO
 - ⭐ **star** this repo to get notifications on future improvements.
 
 ### Pipeline Overview
-
 To build and test your YOLO object detection algorithm follow the below steps:
 
  1. [Image Annotation](/1_Image_Annotation/)
